@@ -11,95 +11,95 @@ that can help improve customer engagement, optimize product strategy, and increa
 
 The project follows a full analytics workflow:
 
-Data cleaning & preprocessing
+- Data cleaning & preprocessing
 
-Exploratory analysis
+- Exploratory analysis
 
-Feature engineering
+- Feature engineering
 
-Business analysis using SQL
+- Business analysis using SQL
 
-Dashboard creation for visualization
+- Dashboard creation for visualization
 
 🛠️ Tools & Technologies
 
-Python (Pandas)
+- Python (Pandas)
 
-MySQL
+- MySQL
 
-Power BI
+- Power BI
 
 📊 Key Features
 
 🐍 Python Data Preparation
 
-Handled missing values (median imputation for review ratings)
+- Handled missing values (median imputation for review ratings)
 
-Normalized column names
+- Normalized column names
 
-Created new features such as age groups and purchase frequency
+- Created new features such as age groups and purchase frequency
 
-Exported cleaned data to MySQL
+- Exported cleaned data to MySQL
 
 🛢️ MySQL Business Analysis
 
-Executed SQL queries to analyze:
+- Executed SQL queries to analyze:
 
-Revenue by gender
+- Revenue by gender
 
-High-spending discount users
+- High-spending discount users
 
-Top product ratings
+- Top product ratings
 
-Standard vs Express shipping behavior
+- Standard vs Express shipping behavior
 
-Subscribers vs non-subscribers
+- Subscribers vs non-subscribers
 
-Customer segmentation (New, Returning, Loyal)
+- Customer segmentation (New, Returning, Loyal)
 
-Revenue by age group
+- Revenue by age group
 
 📊 Power BI Visualization
 
-Developed an interactive dashboard featuring:
+- Developed an interactive dashboard featuring:
 
-Total customers
+- Total customers
 
-Average purchase amount
+- Average purchase amount
 
-Review rating distribution
+- Review rating distribution
 
-Revenue and sales by category
+- Revenue and sales by category
 
-Subscription breakdown
+- Subscription breakdown
 
-Revenue by age group
+- Revenue by age group
 
-Filters for demographic and behavioral attributes
+- Filters for demographic and behavioral attributes
 
 📈 Key Insights
 
-Young Adults generate the highest revenue.
+- Young Adults generate the highest revenue.
 
-Clothing is the strongest revenue-driving category.
+- Clothing is the strongest revenue-driving category.
 
-Express shipping customers spend more than standard users.
+- Express shipping customers spend more than standard users.
 
-Some products rely heavily on discounts for sales.
+- Some products rely heavily on discounts for sales.
 
-High-rated products significantly influence purchase decisions.
+- High-rated products significantly influence purchase decisions.
 
 💡 Business Recommendations
 
-Encourage subscription sign-ups through exclusive benefits.
+- Encourage subscription sign-ups through exclusive benefits.
 
-Strengthen loyalty programs to increase repeat purchases.
+- Strengthen loyalty programs to increase repeat purchases.
 
-Focus marketing efforts on high-revenue age groups.
+- Focus marketing efforts on high-revenue age groups.
 
-Highlight top-rated and top-selling products in campaigns.
+- Highlight top-rated and top-selling products in campaigns.
 
-Apply discounts strategically to optimize profit margins.
+- Apply discounts strategically to optimize profit margins.
 
 🎯 Conclusion
 
